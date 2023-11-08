@@ -1,38 +1,13 @@
-### Description
+# Portfolio Website Readme
 
-A simple portfolio template for developer/designers built with React. 
+![ALT Text](/public/issy.png)
 
-### [live preview](https://ubaimutl.github.io/react-portfolio/)
+This is my portfolio website, showcasing a collection of selected projects that I've built. It's designed using a React template, offering a dynamic and user-friendly experience. Explore my work, view project details, and get in touch with me for collaborations. Whether you're a potential employer or a fellow developer, this site is a glimpse into my skills and creativity. Feel free to reach out and let's connect!
 
-[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
+### Features:
 
-### Features
+- User-friendly, responsive design.
+- Highlighted projects with descriptions.
+- Contact information for collaboration opportunities.
 
-- Fully Responsive
-- Multi-Page Layout
-- Contact Form With EmailJs
-- React-Bootstrap
-- Edit Content From One Place
-
-### Setup
-
-Get the code
-
-<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
- 
-Install required dependencies
-
-<pre>yarn install</pre>
-
-
-Start the server
-
-<pre>yarn start</pre>
-
-### More
-
-Modify pages content in  `src/content_option.js`.
-
-### Thanks
-
-If you like this portfolio template don't forget give it a ⭐ 
+Explore my portfolio and discover the world of possibilities. Thanks for visiting!

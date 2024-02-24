@@ -101,6 +101,47 @@ const services = [
 
 const dataportfolio = [
   {
+    img: "/capival.png",
+    desctiption:
+      "A full stack fintech web app built using Reactjs in collaboration with a backend developer",
+    link: "https://capival.com/",
+  },
+  {
+    img: "/kwikee.png",
+    desctiption:
+      "A full stack fintech web app built using Reactjs in collaboration with a backend developer",
+    link: "https://kwikee.app/",
+  },
+  {
+    img: "/pridetravel.png",
+    desctiption:
+      "A web app built for travelden as a sub domain created using Reactjs",
+    link: "https://pride.travelden.com/",
+  },
+  {
+    img: "/travelden.png",
+    desctiption:
+      "Web app built for a travel company using Reactjs in collaboration with a backend developer",
+    link: "https://travelden.com/",
+  },
+  {
+    img: "/pwanhomes.png",
+    desctiption:
+      "Website created for a real estate network marketing company built using Reactjs",
+    link: "https://pwanhomes.com/",
+  },
+  {
+    img: "/massage.png",
+    desctiption: "A web app created for a massage & spa center using wordpress",
+    link: "https://massageoasis.co.uk/",
+  },
+  {
+    img: "/advert.png",
+    desctiption:
+      "A web app created for a digital marketing company using wordpress",
+    link: "https://advertmetrics.com/",
+  },
+  {
     img: "/gymland.png",
     desctiption: "Landing page built with React, TypeScript and vite",
     link: "https://gym-land.vercel.app/",
